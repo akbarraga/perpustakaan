@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    border-bottom: 1px solid #ccc;
+}
